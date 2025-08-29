@@ -10,6 +10,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  {
+  "name": "spiegel",
+  "homepage": "https://spiegel.github.io/spiegel",
+  "version": "0.1.0"
+},
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
